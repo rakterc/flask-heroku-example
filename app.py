@@ -9,7 +9,7 @@ def index():
     """Return homepage."""
 #    json_data = {'Hello': 'World!'}
 #    return jsonify(json_data)
-return ""
+return "ชื่อเรา"
 
 if __name__ == '__main__':
     app.run()
